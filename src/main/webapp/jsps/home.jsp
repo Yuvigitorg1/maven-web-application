@@ -27,7 +27,7 @@
 	</span>
 </div>
 <hr>
-	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
+	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details</p>
 <hr>
 <hr>
 <p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
